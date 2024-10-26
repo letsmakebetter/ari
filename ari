@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mysterious Meeting Invitation</title>
+    <style>
+        body {
+            background: linear-gradient(135deg, #1a1a1a, #333333); /* Dark gradient */
+            color: #ffffff; /* White text for contrast */
+            font-family: 'Georgia', serif; /* Gothic font */
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            height: 100vh;
+            margin: 0;
+            text-align: center;
+        }
+
+        .cool-title {
+            font-size: 3em;
+            color: #ffffff; /* White title */
+            margin-bottom: 20px; /* Space below the title */
+        }
+
+        p {
+            margin: 10px 0;
+            font-size: 1.2em;
+            line-height: 1.5em;
+        }
+    </style>
+</head>
+<body>
+    <div>
+        <h1 class="cool-title">If You Are Looking for Something, I Have It...</h1>
+        <p>Let's meet on Thursday evening at 18:01 on the terrace.</p>
+        <p><strong>Note:</strong> Use the elevator near the student affairs office, as the doors on the floors may be closed.</p>
+    </div>
+</body>
+</html>
